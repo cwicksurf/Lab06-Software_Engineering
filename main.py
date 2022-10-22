@@ -11,3 +11,4 @@ def subtraction (a, b):
 
 if __name__ == "__main__":
     print(add(2, 5))
+    print(subtraction(100,50))
