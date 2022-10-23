@@ -3,7 +3,7 @@
 def add(a, b):
     return a + b
 
-# edit from Github. Need to add in a module for subtraction too.
+# edit from GitHub. Need to add in a module for subtraction too.
 
 def subtraction (a, b):
     return a - b
